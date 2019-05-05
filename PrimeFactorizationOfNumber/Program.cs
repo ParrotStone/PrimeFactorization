@@ -109,9 +109,9 @@ namespace PrimeFactorizationOfNumber
             //1000000000000
             //1000000000000000
             PrintPrimeFactors(30);
-            Console.WriteLine((DateTime.Now.Millisecond - (decimal)startTime.Millisecond) / (decimal)1000.0 + " sec."); // The program is running time is fast enough.
+            Console.WriteLine((DateTime.Now.Millisecond - (decimal)startTime.Millisecond) / (decimal)1000.0 + " sec.");
             // Or
-            Console.WriteLine(DateTime.Now.Millisecond - (decimal)startTime.Millisecond + " MiliSeconds."); // The program is running time is fast enough.
+            Console.WriteLine(DateTime.Now.Millisecond - (decimal)startTime.Millisecond + " MiliSeconds."); 
         }
     }
 }
