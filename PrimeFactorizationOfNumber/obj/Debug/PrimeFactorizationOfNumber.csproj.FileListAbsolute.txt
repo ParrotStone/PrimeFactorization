@@ -1,0 +1,6 @@
+C:\Users\Abdulrahman\Documents\Visual Studio 2013\Projects\Algorithms Related To Exercises\Others\PrimeFactorizationOfNumber\PrimeFactorizationOfNumber\bin\Debug\PrimeFactorizationOfNumber.exe.config
+C:\Users\Abdulrahman\Documents\Visual Studio 2013\Projects\Algorithms Related To Exercises\Others\PrimeFactorizationOfNumber\PrimeFactorizationOfNumber\bin\Debug\PrimeFactorizationOfNumber.exe
+C:\Users\Abdulrahman\Documents\Visual Studio 2013\Projects\Algorithms Related To Exercises\Others\PrimeFactorizationOfNumber\PrimeFactorizationOfNumber\bin\Debug\PrimeFactorizationOfNumber.pdb
+C:\Users\Abdulrahman\Documents\Visual Studio 2013\Projects\Algorithms Related To Exercises\Others\PrimeFactorizationOfNumber\PrimeFactorizationOfNumber\obj\Debug\PrimeFactorizationOfNumber.exe
+C:\Users\Abdulrahman\Documents\Visual Studio 2013\Projects\Algorithms Related To Exercises\Others\PrimeFactorizationOfNumber\PrimeFactorizationOfNumber\obj\Debug\PrimeFactorizationOfNumber.pdb
+C:\Users\Abdulrahman\Documents\Visual Studio 2013\Projects\Algorithms Related To Exercises\Others\PrimeFactorizationOfNumber\PrimeFactorizationOfNumber\obj\Debug\PrimeFactorizationOfNumber.csprojResolveAssemblyReference.cache
